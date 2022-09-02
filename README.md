@@ -9,7 +9,7 @@ img {
 
 ## Normal Equation Derivation :
 
-<img src="images/minimize.svg">
+<img src="images/minimize.svg" width = "1000px">
 <img src="images/reguralilambda.svg">
 
 ## Bias :
