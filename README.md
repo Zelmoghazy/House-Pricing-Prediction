@@ -1,6 +1,7 @@
 <style>
 img {
   background-color: transparent;
+  background-size: cover;
 }
 </style>
 
