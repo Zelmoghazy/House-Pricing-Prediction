@@ -1,5 +1,5 @@
 # Multiple Linear Regression 
-<img src="images/regurzation.svg" width="100">
+<img src="images/regurzation.svg" width="1000">
 
 ## Normal Equation Derivation :
 
