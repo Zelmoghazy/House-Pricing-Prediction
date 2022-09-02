@@ -5,7 +5,7 @@
 
 ## Normal Equation Derivation :
 
-<img src="images/minimize.svg" width = "2000px">
+<img src="images/minimize.svg" width = 200%>
 <img src="images/reguralilambda.svg">
 
 ## Bias :
