@@ -1,6 +1,2 @@
-<style>
-img{
-    max-width:200%;
-    }    
-</style>
-<img src="images/onepage.svg">
+
+<img src="images/onepage.png">
