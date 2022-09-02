@@ -1,5 +1,5 @@
 <style>
-img {
+.bigger {
     max-width:200%;
     height:auto;
 }
@@ -9,10 +9,10 @@ img {
 <img src="images/regurzation.svg">
 
 ## Normal Equation Derivation :
-<img src="images/minimize.svg">
+<img src="images/minimize.svg" class ="bigger">
 
 ### Cost function :
-<img src="images/reguralilambda.svg">
+<img src="images/reguralilambda.svg" class ="bigger">
 
 ## Bias :
 
