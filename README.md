@@ -1,3 +1,10 @@
+<style>
+img {
+    max-width:200%;
+    height:auto;
+}
+</style>  
+
 # Multiple Linear Regression 
 <img src="images/regurzation.svg">
 
