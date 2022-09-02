@@ -1,11 +1,16 @@
-
+<style>
+  .small{
+  width : 200%;
+  }
+</style>
 
 # Multiple Linear Regression 
 <img src="images/regurzation.svg">
 
 ## Normal Equation Derivation :
-
-<img src="images/minimize.svg" width = 200%>
+<div class="small">
+<img src="images/minimize.svg">
+</div>
 <img src="images/reguralilambda.svg">
 
 ## Bias :
