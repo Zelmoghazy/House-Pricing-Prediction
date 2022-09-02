@@ -1,3 +1,9 @@
+<style>
+img {
+  background-color: transparent;
+}
+</style>
+
 # Multiple Linear Regression 
 <img src="images/regurzation.svg" width="1000">
 
