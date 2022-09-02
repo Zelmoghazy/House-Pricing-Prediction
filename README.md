@@ -1,6 +1,6 @@
 <style>
 .bigger {
-    max-width:200%;
+    max-width:500%;
     height:auto;
 }
 </style>  
