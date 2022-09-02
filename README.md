@@ -1,17 +1,11 @@
-<style>
-img {
-  background-color: transparent;
-  background-size: cover;
-  width : 200%;
-}
-</style>
+
 
 # Multiple Linear Regression 
 <img src="images/regurzation.svg">
 
 ## Normal Equation Derivation :
 
-<img src="images/minimize.svg">
+<img src="images/minimize.svg" width = "2000px">
 <img src="images/reguralilambda.svg">
 
 ## Bias :
