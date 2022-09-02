@@ -3,6 +3,7 @@
 
 ## Normal Equation Derivation :
 <img src="images/minimize.svg">
+### Cost function
 <img src="images/reguralilambda.svg">
 
 ## Bias :
