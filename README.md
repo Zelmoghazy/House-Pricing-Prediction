@@ -5,7 +5,7 @@ img {
 </style>
 
 # Multiple Linear Regression 
-<img src="images/regurzation.svg" width="1000">
+<img src="images/regurzation.svg">
 
 ## Normal Equation Derivation :
 
